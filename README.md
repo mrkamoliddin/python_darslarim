@@ -1,2 +1,2 @@
 # python_darslarim
-bu repository pythonni boshlash jarayonida bajarilgan darslar natijalarini kiritish uchun
+Ushbu repository pythonni boshlash jarayonida bajarilgan darslar natijalarini kiritish uchun
